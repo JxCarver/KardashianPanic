@@ -1,0 +1,10 @@
+version: 1
+challenges:
+    KardashianPanic:
+        author: JCarver
+        brief: Easy Forensics, solvable with no tools
+        flag: flag{abc} # OR file:flag.txt for specifiying a flag within a file
+        case_sensitive: true
+        flag_type: static 
+        message: file:message.txt
+        player_files: Scores/HighScore.txt, hl2.exe, Readme.txt, RunGame.exe
