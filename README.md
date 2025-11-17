@@ -1,0 +1,1 @@
+This was a CTF challenge created for 2025 MakeUC CTF. The category was forensics and initial difficulty was easy. The event organizers categorized it as hard and in retrospect I believe medium is a more appropriate difficulty level.
